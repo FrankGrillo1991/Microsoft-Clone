@@ -212,3 +212,9 @@ ul {
 }
 
 /* Footer */
+.footer {
+    background: #f2f2f2;
+    color: #616161;
+    font-size: 12px;
+    padding: 20px 0;
+}
