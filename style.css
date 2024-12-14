@@ -82,3 +82,10 @@ ul {
     font-size: 15px;
 }
 
+.btn:hover {
+    opacity: 0.9;
+}
+
+.dark {
+    color: #fff;
+}
