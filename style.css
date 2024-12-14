@@ -142,4 +142,8 @@ ul {
     font-weight: bold;
 }
 
+.home-cards a:hover i {
+    margin-left: 10px;
+}
+
 
