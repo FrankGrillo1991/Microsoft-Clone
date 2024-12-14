@@ -228,3 +228,9 @@ ul {
     justify-content: space-between;
 }
 
+.follow div {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
