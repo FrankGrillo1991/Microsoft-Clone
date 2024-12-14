@@ -57,3 +57,8 @@ ul {
     border-bottom: 2px solid #262626;
 }
 
+.main-nav ul.main-menu {
+    flex: 1;
+    margin-left: 20px;
+}
+
