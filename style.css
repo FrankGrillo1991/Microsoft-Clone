@@ -134,4 +134,12 @@ ul {
     margin-bottom: 5px;
 }
 
+.home-cards a {
+    display: inline-block;
+    padding-top: 10px;
+    color: #0067b8;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
 
