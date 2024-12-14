@@ -41,3 +41,7 @@ ul {
     width: 110px;
 }
 
+.main-nav ul {
+    display: flex;
+}
+
